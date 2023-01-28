@@ -3,6 +3,7 @@
 *.log
 *.pyc
 *.swp
+*.c++ linguist-detectable=false
 .DS_Store
 .atom/
 .buildlog/
